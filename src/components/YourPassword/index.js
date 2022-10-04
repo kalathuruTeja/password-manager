@@ -32,7 +32,6 @@ const YourPasswords = props => {
           <button
             type="button"
             className="delete-button"
-            testid="delete"
             onClick={onClickDelete}
           >
             <img
